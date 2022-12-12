@@ -1,4 +1,2 @@
-# fourth-branch
-
-
+# third-branch
 An App Academy exercise where you practice identifying and resolving merge conflicts
